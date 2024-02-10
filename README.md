@@ -41,7 +41,7 @@ Out of 768 instances, 268 are diabetic, and 500 are non-diabetic.
 
 *Note: All patients are females and at least 21 years old.*
 
-## How to Run the Notebook 🚀
+## How to Run the Notebook:- 🚀
 
 1. **Clone the Repository:**
    ```
@@ -65,4 +65,25 @@ Out of 768 instances, 268 are diabetic, and 500 are non-diabetic.
 
 5. **Follow Notebook Instructions:**
    Open the notebook and follow the step-by-step instructions to explore the dataset, analyze features, and gain insights into diabetes patterns.
+🌟🩺
+
+## How to Run the Streamlit Web App:- 🚀
+
+1. **Install Streamlit:**
+   ```
+   pip install streamlit
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```
+   cd Diabetes-Prediction
+   ```
+
+3. **Run the Streamlit App:**
+   ```
+   streamlit run app.py
+   ```
+
+4. **Open the App in Your Browser:**
+   It will automatically open your web browser and redirect you to the URL provided by Streamlit (usually http://localhost:8501).
 🌟🩺
